@@ -1,1 +1,2 @@
-this one is branch 2 bruh
+i edited branch 2
+frfr
