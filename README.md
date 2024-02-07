@@ -1,2 +1,2 @@
 i edited branch 2
-frfr
+ new text added 
